@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Patryck
+Hildelbrando Patryck Borges Lopes
 
 🎓 Estudante de **Engenharia de Computação**  
 🔧 Apaixonado por **software e hardware**  
